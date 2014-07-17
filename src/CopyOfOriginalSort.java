@@ -4,6 +4,11 @@ import javax.swing.*;
 public class CopyOfOriginalSort {
 	private static int[] numbers;
 	static long startTime;
+	
+	/*
+	Useless, ignore this. Originally everything was a bit sloppier,
+	but I wanted to keep this for posterity's sake.
+	*/
 
 
 	public static void main(String[] args) {
