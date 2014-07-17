@@ -1,6 +1,12 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+There's very little to say here. The ArrayProcessor does all the real work
+here and returns the sorted array. Basic, classic recursion on a basic,
+classic algorithm. 
+*/
+
 
 public class ArrayProcessor {
 	private int[] numbers;
